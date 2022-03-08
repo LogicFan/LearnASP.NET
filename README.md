@@ -8,9 +8,9 @@ This a repo I use for learning ASP.NET.
 
 https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/
 
-- [ ] Introduction
-- [ ] REST in ASP.NET Core
-- [ ] Exercise - Create a web API project
+- [x] Introduction
+- [x] REST in ASP.NET Core
+- [x] Exercise - Create a web API project
 - [ ] ASP.NET Core Web API Controllers
 - [ ] Exercise - Add a data store
 - [ ] Exercise - Add a controller
