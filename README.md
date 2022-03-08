@@ -54,3 +54,11 @@ https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-database/
 - [ ] Exercise - Use the SQLite database with EF Core
 - [ ] Knowledge check
 - [ ] Summary
+
+### ASP.NET Core 101
+
+https://docs.microsoft.com/en-us/shows/ASPNET-Core-101/
+
+### ASP.NET Core Web 101
+
+https://docs.microsoft.com/en-us/shows/Beginners-Series-to-Web-APIs/
