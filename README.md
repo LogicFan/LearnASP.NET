@@ -11,9 +11,9 @@ https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/
 - [x] Introduction
 - [x] REST in ASP.NET Core
 - [x] Exercise - Create a web API project
-- [ ] ASP.NET Core Web API Controllers
-- [ ] Exercise - Add a data store
-- [ ] Exercise - Add a controller
+- [x] ASP.NET Core Web API Controllers
+- [x] Exercise - Add a data store
+- [x] Exercise - Add a controller
 - [ ] CRUD actions in ASP.NET Core
 - [ ] Exercise - Implement CRUD operations
 - [ ] Summary
