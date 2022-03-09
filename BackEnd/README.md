@@ -22,13 +22,13 @@ https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/
 
 https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/
 
-- [ ] Introduction
-- [ ] Understanding EF Core
-- [ ] Exercise - Migrations
-- [ ] Exercise - Interacting with data
-- [ ] Exercise - Run the app
-- [ ] Exercise - Reverse engineering
-- [ ] Summary
+- [x] Introduction
+- [x] Understanding EF Core
+- [x] Exercise - Migrations
+- [x] Exercise - Interacting with data
+- [x] Exercise - Run the app
+- [x] Exercise - Reverse engineering
+- [x] Summary
 
 ### Build a web API with minimal API, ASP.NET Core and .NET 6
 
