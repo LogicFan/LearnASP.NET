@@ -6,8 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
-// Add the PizzaContext
+builder.Services.AddSqlite<PizzaContext>("Data Source=ContosoPizza.db");
 
 // Add the PromotionsContext
 
@@ -28,6 +27,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-builder.Services.AddSqlite<PizzaContext>("Data Source=ContosoPizza.db");
+app.CreateDbIfNotExists();
 
 app.Run();
