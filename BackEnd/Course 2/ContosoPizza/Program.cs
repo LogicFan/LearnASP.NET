@@ -1,5 +1,5 @@
 using ContosoPizza.Services;
-// Additional using declarations
+using ContosoPizza.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,6 +28,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-// Add the CreateDbInNotExists method call
+builder.Services.AddSqlite<PizzaContext>("Data Source=ContosoPizza.db");
 
 app.Run();
