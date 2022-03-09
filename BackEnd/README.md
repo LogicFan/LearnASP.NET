@@ -20,6 +20,8 @@ https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/
 
 ### Persist and retrieve relational data with Entity Framework Core
 
+https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/
+
 - [ ] Introduction
 - [ ] Understanding EF Core
 - [ ] Exercise - Migrations
