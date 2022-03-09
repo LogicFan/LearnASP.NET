@@ -34,13 +34,13 @@ https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/
 
 https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/
 
-- [ ] Introduction
-- [ ] What is minimal API?
-- [ ] Exercise - Create a minimal API
-- [ ] Learn how to add routes and use other advanced commands
-- [ ] Exercise - Add routes
-- [ ] Knowledge check
-- [ ] Summary
+- [x] Introduction
+- [x] What is minimal API?
+- [x] Exercise - Create a minimal API
+- [x] Learn how to add routes and use other advanced commands
+- [x] Exercise - Add routes
+- [x] Knowledge check
+- [x] Summary
 
 ### Use a database with minimal API, Entity Framework Core, and ASP.NET
 
