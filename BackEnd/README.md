@@ -46,7 +46,7 @@ https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/
 
 https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-database/
 
-- [ ] Introduction
+- [x] Introduction
 - [ ] What is Entity Framework Core?
 - [ ] Exercise - Add EF Core to minimal API
 - [ ] Use the SQLite database provide with EF Core

@@ -6,8 +6,8 @@ Here is all the material I use to learn ASP.NET FrontEnd Technology.
 
 https://docs.microsoft.com/en-us/learn/modules/create-razor-pages-aspnet-core/
 
-- [ ] Introduction
-- [ ] Understand when and why to use Razor Pages
+- [x] Introduction
+- [x] Understand when and why to use Razor Pages
 - [ ] Exercise - Create new ASP.NET Core app
 - [ ] Explore the Razor Pages project
 - [ ] Exercise - Add a Pizza list page with a form
