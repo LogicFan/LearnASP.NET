@@ -8,12 +8,12 @@ https://docs.microsoft.com/en-us/learn/modules/create-razor-pages-aspnet-core/
 
 - [x] Introduction
 - [x] Understand when and why to use Razor Pages
-- [ ] Exercise - Create new ASP.NET Core app
-- [ ] Explore the Razor Pages project
-- [ ] Exercise - Add a Pizza list page with a form
-- [ ] Handle interactions in PageModel handler methods
-- [ ] Exercise - Handle the Pizza form submission
-- [ ] Summary
+- [x] Exercise - Create new ASP.NET Core app
+- [x] Explore the Razor Pages project
+- [x] Exercise - Add a Pizza list page with a form
+- [x] Handle interactions in PageModel handler methods
+- [x] Exercise - Handle the Pizza form submission
+- [x] Summary
 
 ### Introduction to Web Development with Blazor
 
