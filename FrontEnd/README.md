@@ -19,26 +19,39 @@ https://docs.microsoft.com/en-us/learn/modules/create-razor-pages-aspnet-core/
 
 https://docs.microsoft.com/en-us/learn/modules/blazor-introduction/
 
-- [ ] Introduction
-- [ ] What is Blazor?
-- [ ] When to use Blazor
-- [ ] Knowledge check
-- [ ] Summary
+- [x] Introduction
+- [x] What is Blazor?
+- [x] When to use Blazor
+- [x] Knowledge check
+- [x] Summary
 
 ### Build a web app with Blazor
 
 https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/
 
-- [ ] Introduction
-- [ ] What is Blazor?
-- [ ] Exercise - Create and run a Blazor web app
-- [ ] Razor components
-- [ ] Exercise - Add a component
-- [ ] Data binding and events
-- [ ] Exercise - Data binding and events
-- [ ] Summary
+- [x] Introduction
+- [x] What is Blazor?
+- [x] Exercise - Create and run a Blazor web app
+- [x] Razor components
+- [x] Exercise - Add a component
+- [x] Data binding and events
+- [x] Exercise - Data binding and events
+- [x] Summary
 
 ### Interact with data in Blazor web apps
+
+https://docs.microsoft.com/en-us/learn/modules/interact-with-data-blazor-web-apps/
+
+- [ ] Introduction
+- [ ] Create a user interface with Blazor components
+- [ ] Exercise - Create a user interface with Blazor components
+- [ ] Access data from a Blazor component
+- [ ] Exercise - Access data from a Blazor component
+- [ ] Share data in Blazor applications
+- [ ] Exercise - Share data in Blazor applications
+- [ ] Bind controls to data in Blazor applications
+- [ ] Exercise - Bind controls to data in Blazor applications
+- [ ] Summary
 
 ...
 
